@@ -1,3 +1,5 @@
+![Preview Cover](assets/preview-cover.png)
+
 # Interactive Knowledge Cards: The Psychology of Money
 
 An expanding library of interactive learning cards based on
